@@ -4,6 +4,10 @@ import 'package:course/session2/IconButton.dart';
 import 'package:course/session2/TextField.dart';
 import 'package:course/session2/WrapWidget.dart';
 import 'package:course/session3/design.dart';
+import 'package:course/session4/grid_view_widget.dart';
+import 'package:course/session4/list_view_widget.dart';
+import 'package:course/session4/page_view_widget.dart';
+import 'package:course/session4/stack_widget.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +19,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: Meditaion_Screen(),
+      home: StackWidget(),
     );
   }
 }
