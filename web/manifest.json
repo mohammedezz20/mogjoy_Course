@@ -1,6 +1,6 @@
 {
-    "name": "course",
-    "short_name": "course",
+    "name": "on_boarding",
+    "short_name": "on_boarding",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
