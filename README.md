@@ -1,4 +1,4 @@
-# on_boarding
+# course
 
 A new Flutter project.
 
